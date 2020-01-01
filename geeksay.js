@@ -120,6 +120,11 @@ const translations = {
     "waiting": "loading",
     "forbidden": "403",
     "unauthorized": "401",
+    "all": "ctrl+a",
+    "style": "css",
+    "environment": "env",
+    "recipe": "algorithm",
+    "compare": "==",
 }
 
 const quotes = [
